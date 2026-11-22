@@ -1,0 +1,37 @@
+[
+  {
+    "id": "44a69f35",
+    "subject": "คอม240",
+    "duration": 240,
+    "category": "Long",
+    "timestamp": "22 Nov 2026 · 22:20"
+  },
+  {
+    "id": "d0c658b5",
+    "subject": "คอม",
+    "duration": 60,
+    "category": "Long",
+    "timestamp": "22 Nov 2026 · 22:20"
+  },
+  {
+    "id": "59403479",
+    "subject": "คอมอีก",
+    "duration": 59,
+    "category": "Medium",
+    "timestamp": "22 Nov 2026 · 22:19"
+  },
+  {
+    "id": "4fea35ef",
+    "subject": "คอม",
+    "duration": 29,
+    "category": "Short",
+    "timestamp": "22 Nov 2026 · 22:19"
+  },
+  {
+    "id": "35560cf4",
+    "subject": "คอม",
+    "duration": 30,
+    "category": "Medium",
+    "timestamp": "22 Nov 2026 · 12:39"
+  }
+]
